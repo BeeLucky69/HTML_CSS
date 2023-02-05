@@ -13,3 +13,9 @@ body{
     margin-left: 140px;
     margin-top: 30px;
 }
+
+.div2{
+    float: right;
+    margin-right: 150px;
+    margin-top: 40px;
+}
