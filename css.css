@@ -23,3 +23,10 @@ body{
 .clear{
     clear: both;
 }
+
+.a1{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
